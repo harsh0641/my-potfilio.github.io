@@ -1,1 +1,1 @@
-# my-potfilio.github.io
+# my-awesome-potfolio.github.io
