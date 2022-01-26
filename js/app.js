@@ -6,7 +6,7 @@ $(document).ready(function(){
             dotsClass:'dots'
     })    
 })
-window.onbeforeunload = function () {
-    window.scrollTo(0, 0);
-  }
- location.href = "http://127.0.0.1:5500/index.html#"; 
+// window.onbeforeunload = function () {
+//     window.scrollTo(0, 0);
+//   }
+//  location.href = "http://127.0.0.1:5500/index.html#"; 
