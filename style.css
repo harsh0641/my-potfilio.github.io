@@ -183,8 +183,6 @@ section{
 }
 .section-heading span{
     color: var(--primary);
-      position: relative;
-    top:10px
     
 }
 .services .card-wrapper{
